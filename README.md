@@ -31,7 +31,7 @@ Previous studies found that the Affordable Care Act Medicaid Expansions increase
 	* Append data for trend tests.
 
 
-Authors: Ha Tran (ngocha61084@gmail.com)
+Author: Ha Tran (ngocha61084@gmail.com)
 
 
 
