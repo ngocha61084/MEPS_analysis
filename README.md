@@ -4,10 +4,11 @@
 
 ![Alt text](image/obamacare.png?raw=true "Title")
 
-Introduction: Previous studies found that the Affordable Care Act Medicaid Expansions increased insurance coverage, access to care and utilization in low-income persons. Little is known about the demand for primary care on a national scale which is useful for health policy decision making. We aimed to estimate the current demand for primary care and examine trends over time.rapidly changing US healthcare environment. We aimed to estimate the demand for total visits, primary care visits, ED visits and examine the trend over time.
+## Introduction
+Previous studies found that the Affordable Care Act Medicaid Expansions increased insurance coverage, access to care and utilization in low-income persons. Little is known about the demand for primary care on a national scale which is useful for health policy decision making. We aimed to estimate the current demand for primary care and examine trends over time.rapidly changing US healthcare environment. We aimed to estimate the demand for total visits, primary care visits, ED visits and examine the trend over time.
 
 
-Analysis:
+## Analysis
 
 - MEPS_00_DataPrep.do: Data Prepation
 	* Create data with selected variables
@@ -29,8 +30,9 @@ Analysis:
 - MEPS_04_DataAppend: Append data
 	* Append data for trend tests.
 
+
 Authors: Ha Tran (ngocha61084@gmail.com)
 
 
 
-HAVE A LOVELY DAY!
+## HAVE A LOVELY DAY!
