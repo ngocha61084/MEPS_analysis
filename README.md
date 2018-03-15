@@ -34,5 +34,4 @@ Previous studies found that the Affordable Care Act Medicaid Expansions increase
 Author: Ha Tran (ngocha61084@gmail.com)
 
 
-
 ## HAVE A LOVELY DAY!
